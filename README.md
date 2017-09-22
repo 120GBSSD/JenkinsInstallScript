@@ -6,8 +6,8 @@ This script will run update & upgrade then install Jenkins, the script will prod
 
 install script: run as sudo or sudo su
 
+
 cd ~/
 git clone https://github.com/120GBSSD/jenkins-install-xenial.git
 chmod +x ~/jenkins-install-xenial/Ubuntu:16.04-Jenkins.sh
 ./Ubuntu:16.04-Jenkins.sh
-
