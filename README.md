@@ -4,7 +4,7 @@ Jenkins Installation Script for Ubuntu machines, this has been tested on Xenial 
 
 This script will run update & upgrade then install Jenkins, the script will produce the Jenkins verification code after install.
 
-install script
+install script: run as sudo or sudo su
 
 cd ~/
 git clone https://github.com/120GBSSD/jenkins-install-xenial.git
